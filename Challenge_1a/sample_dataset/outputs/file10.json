@@ -1,0 +1,125 @@
+{
+            "title": "Current and Future Development in Lung Cancer Diagnosis",
+            "outline": [
+                {
+                    "level": "H1",
+                    "text": "1. Introduction",
+                    "page": 1
+                },
+                {
+                    "level": "H1",
+                    "text": "2. Lung Cancer Staging",
+                    "page": 2
+                },
+                {
+                    "level": "H1",
+                    "text": "3. Classification",
+                    "page": 3
+                },
+                {
+                    "level": "H1",
+                    "text": "4. SCLC",
+                    "page": 4
+                },
+                {
+                    "level": "H1",
+                    "text": "5. NSCLC",
+                    "page": 4
+                },
+                {
+                    "level": "H1",
+                    "text": "6. Traditional Diagnosis and Screening",
+                    "page": 5
+                },
+                {
+                    "level": "H2",
+                    "text": "6.1. Screening High-Risk Groups",
+                    "page": 5
+                },
+                {
+                    "level": "H2",
+                    "text": "6.2. Radiographic Screening and Diagnosis",
+                    "page": 5
+                },
+                {
+                    "level": "H2",
+                    "text": "6.3. Sputum Examination",
+                    "page": 6
+                },
+                {
+                    "level": "H2",
+                    "text": "6.4. Bronchoscopy and Lung Tissue Biopsy",
+                    "page": 6
+                },
+                {
+                    "level": "H1",
+                    "text": "7. Lung Tissue Biopsies",
+                    "page": 7
+                },
+                {
+                    "level": "H1",
+                    "text": "8. Transition to Biomarker Applications",
+                    "page": 8
+                },
+                {
+                    "level": "H2",
+                    "text": "8.1. cfDNA",
+                    "page": 8
+                },
+                {
+                    "level": "H2",
+                    "text": "8.2. Blood Circulating Antigens",
+                    "page": 8
+                },
+                {
+                    "level": "H2",
+                    "text": "8.3. Cell-Free DNA (cfDNA) and Circulating Tumor Cells (CTCs)",
+                    "page": 9
+                },
+                {
+                    "level": "H1",
+                    "text": "9. Liquid Biopsies Use in Lung Cancer",
+                    "page": 10
+                },
+                {
+                    "level": "H1",
+                    "text": "10. Applications of Biomarkers in Clinical Samples",
+                    "page": 11
+                },
+                {
+                    "level": "H2",
+                    "text": "10.1. Sputum",
+                    "page": 11
+                },
+                {
+                    "level": "H2",
+                    "text": "10.2. Bronchoalveolar Lavage (BAL)",
+                    "page": 12
+                },
+                {
+                    "level": "H2",
+                    "text": "10.3. Peripheral Blood",
+                    "page": 12
+                },
+                {
+                    "level": "H2",
+                    "text": "10.4. Urine",
+                    "page": 13
+                },
+                {
+                    "level": "H2",
+                    "text": "10.5. Metabolomics",
+                    "page": 14
+                },
+                {
+                    "level": "H1",
+                    "text": "11. Conclusions and Future Venues",
+                    "page": 14
+                },
+                {
+                    "level": "H1",
+                    "text": "References",
+                    "page": 15
+                }
+            ]
+        }
