@@ -118,5 +118,5 @@ if __name__ == "__main__":
             all_data.extend(extract_features_and_labels(pdf_path, headings, title_words, full_title))
 
     df = pd.DataFrame(all_data)
-    df.to_csv('training_datas.csv', index=False, encoding='utf-8')
+    df.to_csv('D:/adobe-hackathon/Challenge_1a/training_datas.csv', index=False, encoding='utf-8')
     print("\nSuccessfully created training_data.csv")

@@ -1,190 +1,70 @@
 {
-            "title": "The role of national cybersecurity strategies on the improvement of cybersecurity education",
-            "outline": [
-                {
-                    "level": "H1",
-                    "text": "1. Introduction",
-                    "page": 1
-                },
-                {
-                    "level": "H1",
-                    "text": "2. Review of international cybersecurity strategic plans",
-                    "page": 2
-                },
-                {
-                    "level": "H2",
-                    "text": "2.1. International telecommunication union-cybersecurity strategic plan development guidelines",
-                    "page": 3
-                },
-                {
-                    "level": "H2",
-                    "text": "2.2. NCSP 1 - United States",
-                    "page": 3
-                },
-                {
-                    "level": "H2",
-                    "text": "2.3. NCSP 2 - United Kingdom",
-                    "page": 4
-                },
-                {
-                    "level": "H2",
-                    "text": "2.4. NCSP 3 - European Union",
-                    "page": 5
-                },
-                {
-                    "level": "H2",
-                    "text": "2.5. NCSP 4 - Canada",
-                    "page": 5
-                },
-                {
-                    "level": "H2",
-                    "text": "2.6. NCSP 5 - Russian Federation",
-                    "page": 6
-                },
-                {
-                    "level": "H2",
-                    "text": "2.7. NCSP 6 - China",
-                    "page": 6
-                },
-                {
-                    "level": "H2",
-                    "text": "2.8. NCSP 7 - Australia",
-                    "page": 6
-                },
-                {
-                    "level": "H2",
-                    "text": "2.9. NCSP 8 - Association of southeast asian nations",
-                    "page": 7
-                },
-                {
-                    "level": "H2",
-                    "text": "2.10. NCSP 9 - United Arab Emirates",
-                    "page": 7
-                },
-                {
-                    "level": "H2",
-                    "text": "2.11. NCSP 10 - Switzerland",
-                    "page": 7
-                },
-                {
-                    "level": "H2",
-                    "text": "2.12. Summary",
-                    "page": 7
-                },
-                {
-                    "level": "H1",
-                    "text": "3. Cybersecurity curricula improvement standards and frameworks",
-                    "page": 7
-                },
-                {
-                    "level": "H2",
-                    "text": "3.1. NIST- NICE Framework",
-                    "page": 7
-                },
-                {
-                    "level": "H2",
-                    "text": "3.2. ACM/IEEE",
-                    "page": 8
-                },
-                {
-                    "level": "H2",
-                    "text": "3.3. British computer society",
-                    "page": 9
-                },
-                {
-                    "level": "H2",
-                    "text": "3.4. Certification",
-                    "page": 9
-                },
-                {
-                    "level": "H2",
-                    "text": "3.5. UAE - Ministry of education",
-                    "page": 9
-                },
-                {
-                    "level": "H2",
-                    "text": "3.6. Other frameworks and concepts",
-                    "page": 9
-                },
-                {
-                    "level": "H1",
-                    "text": "4. Review of cybersecurity education improvements initiatives",
-                    "page": 9
-                },
-                {
-                    "level": "H2",
-                    "text": "4.1. Initiatives to attract cybersecurity students",
-                    "page": 9
-                },
-                {
-                    "level": "H2",
-                    "text": "4.2. Initiatives for dynamic revision of cybersecurity curricula",
-                    "page": 10
-                },
-                {
-                    "level": "H2",
-                    "text": "4.3. Initiatives for the alignment of cybersecurity knowledge, skills, and competencies",
-                    "page": 11
-                },
-                {
-                    "level": "H1",
-                    "text": "5. Strategy mapping approaches and models",
-                    "page": 12
-                },
-                {
-                    "level": "H2",
-                    "text": "5.1. Balanced scorecard",
-                    "page": 12
-                },
-                {
-                    "level": "H2",
-                    "text": "5.2. GQM and GQM+strategies",
-                    "page": 12
-                },
-                {
-                    "level": "H1",
-                    "text": "6. An updated GQM+strategis model",
-                    "page": 12
-                },
-                {
-                    "level": "H2",
-                    "text": "6.1. GQO+Strategies implementation",
-                    "page": 13
-                },
-                {
-                    "level": "H2",
-                    "text": "6.2. Case Study: Utilizing GQO+Strategies to Align UAEU MSc. Program in Information Security Improvement to UAE NCSP",
-                    "page": 15
-                },
-                {
-                    "level": "H1",
-                    "text": "7. Discussion",
-                    "page": 17
-                },
-                {
-                    "level": "H1",
-                    "text": "8. Conclusions",
-                    "page": 18
-                },
-                {
-                    "level": "H1",
-                    "text": "Declaration of Competing Interest",
-                    "page": 18
-                },
-                {
-                    "level": "H1",
-                    "text": "CRediT authorship contribution statement",
-                    "page": 18
-                },
-                {
-                    "level": "H1",
-                    "text": "Appendix A. BSC Application on NCSP Alignment with Cybersecurity Curricula Improvement",
-                    "page": 18
-                },
-                {
-                    "level": "H1",
-                    "text": "References",
-                    "page": 19
-                }
-            ]
+    "title": "",
+    "outline": [
+        {
+            "level": "H2",
+            "text": "2.4. NCSP 3 - European Union",
+            "page": 4
+        },
+        {
+            "level": "H2",
+            "text": "2.12. Summary",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "2.10. NCSP 9 - United Arab Emirates",
+            "page": 6
+        },
+        {
+            "level": "H2",
+            "text": "3.4. Certification",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "3.5. UAE - Ministry of education",
+            "page": 8
+        },
+        {
+            "level": "H2",
+            "text": "4.2. Initiatives for dynamic revision of cybersecurity curricula",
+            "page": 9
+        },
+        {
+            "level": "H2",
+            "text": "5.2. GQM and GQM+strategies",
+            "page": 11
+        },
+        {
+            "level": "H2",
+            "text": "5.1. Balanced scorecard",
+            "page": 11
+        },
+        {
+            "level": "H1",
+            "text": "6. An updated GQM+strategis model",
+            "page": 11
+        },
+        {
+            "level": "H2",
+            "text": "6.1. GQO+Strategies implementation",
+            "page": 12
+        },
+        {
+            "level": "H2",
+            "text": "5. Demonstrate advanced oral and written communication skills",
+            "page": 14
+        },
+        {
+            "level": "H1",
+            "text": "7. Discussion",
+            "page": 16
+        },
+        {
+            "level": "H1",
+            "text": "8. Conclusions",
+            "page": 17
         }
+    ]
+}

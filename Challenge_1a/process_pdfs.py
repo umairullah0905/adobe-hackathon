@@ -9,13 +9,13 @@ import joblib
 import sys
 
 # --- Load the trained model ---
-MODEL_PATH = 'heading_classifier.joblib'
+MODEL_PATH = 'D:/adobe-hackathon/Challenge_1a/heading_classifier.joblib'
 try:
     model = joblib.load(MODEL_PATH)
 except FileNotFoundError:
     sys.exit(f"Error: Model file not found at {MODEL_PATH}")
 
-def predict_structure(pdf_path):
+def process_pdfs(pdf_path):
     """
     Processes a new PDF and predicts its structure using the trained model.
     Applies logic to differentiate between titles and bottom-of-page headings.
@@ -120,7 +120,7 @@ def predict_structure(pdf_path):
 # --- Main execution block to process all PDFs in a directory ---
 if __name__ == "__main__":
     INPUT_DIR = 'D:/adobe-hackathon/Challenge_1a/sample_dataset/pdfs'
-    OUTPUT_DIR = 'pdfwebApp/currout'
+    OUTPUT_DIR = 'D:/adobe-hackathon/Challenge_1a/sample_dataset/outputs'
     
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
@@ -132,7 +132,7 @@ if __name__ == "__main__":
             pdf_path = os.path.join(INPUT_DIR, filename)
             
             # Get the structured data from the prediction function
-            result = predict_structure(pdf_path)
+            result = process_pdfs(pdf_path)
             
             # Define the output path for the corresponding JSON file
             output_filename = os.path.splitext(filename)[0] + '.json'

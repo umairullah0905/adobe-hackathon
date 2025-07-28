@@ -44,7 +44,7 @@ In the event of cancellation of the journey or if I fail to produce the tickets 
 "advance, I undertake to refund the entire advance in one lump sum.",9.744399999999985,False,12,0.0,False,0.7672209026128266,False,0,paragraph
 Date,9.744399999999985,True,1,0.0,False,0.8087885985748219,False,0,paragraph
 Signature of Government Servant.,9.744399999999985,True,4,0.0,False,0.8230403800475059,False,0,paragraph
-Overview,24.0,True,1,24.0,False,0.24242424242424243,True,0,Title
+Overview,24.0,True,1,24.0,False,0.24242424242424243,True,0,paragraph
 Foundation Level Extensions,24.0,True,3,0.0,False,0.31313131313131315,True,0,Title
 Version 1.0,12.0,False,2,-12.0,False,0.48484848484848486,True,0,paragraph
 International Software Testing Qualifications Board,18.0,False,5,6.0,False,0.5909090909090909,True,0,paragraph
@@ -333,7 +333,7 @@ to this website for the latest ISTQB Glossary and Syllabi. (www.istqb.org),9.959
 Ontario’s Libraries,15.960000000000036,False,2,15.960000000000036,False,0.09974747474747475,False,0,paragraph
 Working Together,15.960000000000036,False,2,0.0,False,0.1275252525252525,False,0,paragraph
 RRRRFFFFPPPP:::: RRRReeeeqqqquuuueeeesssstttt ffffoooorrrr PPPPrrrrooooppppoooossssaaaallll,32.039999999999964,False,4,16.079999999999927,False,0.21464646464646464,True,0,paragraph
-To Present a Proposal for Developing,24.0,False,6,-8.039999999999964,False,0.31691919191919193,True,0,Title
+To Present a Proposal for Developing,24.0,False,6,-8.039999999999964,False,0.31691919191919193,True,0,paragraph
 the Business Plan for the Ontario,24.000000000000057,False,6,5.684341886080802e-14,False,0.3522727272727273,True,0,Title
 Digital Library,24.0,False,2,-5.684341886080802e-14,False,0.38636363636363635,False,0,Title
 "March 21, 2003",20.039999999999964,False,3,-3.9600000000000364,False,0.4356060606060606,True,0,paragraph
@@ -361,7 +361,7 @@ implementation and operational stages,11.039999999999964,False,4,0.0,False,0.512
 the marketing and communications plan for the ODL,11.039999999999964,False,8,0.0,False,0.5290404040404041,True,1,paragraph
 This business plan must be completed and approved by the ODL Steering Committee no,11.039999999999964,False,14,0.0,False,0.5606060606060606,True,1,paragraph
 "later than September 30, 2003",11.039999999999964,False,5,0.0,False,0.577020202020202,False,1,paragraph
-Timeline:,11.039999999999964,False,1,0.0,False,0.6085858585858586,False,1,H3
+Timeline:,11.039999999999964,False,1,0.0,False,0.6085858585858586,False,1,paragraph
 Those firms/consultants intended to submit a proposal to this RFP must indicate their,11.039999999999964,False,13,0.0,False,0.6388888888888888,True,1,paragraph
 th,6.960000000000036,True,1,-4.079999999999927,False,0.6527777777777778,False,1,paragraph
 intention to do so in an e-mail to Michael Ridley (mridley@uoguelph.ca) by April 11 .,11.039999999999964,False,15,4.079999999999927,False,0.6553030303030303,True,1,paragraph
@@ -453,7 +453,7 @@ communities and institutions.,11.039999999999964,False,3,0.0,False,0.66161616161
 Shared governance structure:,11.039999999999992,True,3,2.842170943040401e-14,False,0.6931818181818182,False,3,H3
 We will share decision-making in order to enable the people we serve.,11.039999999999992,False,12,0.0,False,0.7234848484848485,True,3,paragraph
 We will work based on an underlying assumption of trust and synergy.,11.039999999999992,False,12,0.0,False,0.7550505050505051,True,3,paragraph
-Shared funding:,11.039999999999992,True,2,0.0,False,0.7866161616161617,False,3,H3
+Shared funding:,11.039999999999992,True,2,0.0,False,0.7866161616161617,False,3,paragraph
 "We will leverage provincial, institutional, and local dollars to realize economies of scale",11.039999999999992,False,13,0.0,False,0.8169191919191919,True,3,paragraph
 and put Ontario dollars to work for everyone .,11.040000000000006,False,9,1.4210854715202004e-14,False,0.8333333333333334,False,3,paragraph
 We will be willing to pool talents and dollars in order to provide common services that are,11.040000000000006,False,17,0.0,False,0.86489898989899,True,3,paragraph
@@ -483,7 +483,7 @@ of common standards for the preservation and archiving local digital content,11.
 of a common interface to ODL resources and services that can be imbedded in local,11.039999999999964,False,15,0.0,False,0.523989898989899,True,4,paragraph
 library web sites,11.039999999999964,False,3,0.0,False,0.5391414141414141,False,4,paragraph
 What could the ODL really mean?,11.04000000000002,False,6,5.684341886080802e-14,False,0.5946969696969697,False,4,H3
-For each Ontario citizen it could mean:,11.039999999999964,True,7,-5.684341886080802e-14,False,0.625,False,4,H4
+For each Ontario citizen it could mean:,11.039999999999964,True,7,-5.684341886080802e-14,False,0.625,False,4,paragraph
 One local point of entry to access seamless electronic library services and,11.039999999999964,False,12,0.0,False,0.6414141414141414,True,4,paragraph
 "resources for their personal, educational and professional needs;",11.039999999999964,False,8,0.0,False,0.6565656565656566,True,4,paragraph
 "Access to credible, high-quality, user-friendly electronic services through their",11.039999999999992,False,9,2.842170943040401e-14,False,0.672979797979798,True,4,paragraph
@@ -493,7 +493,7 @@ Confidence that the electronic services and sources they – and their children,
 perspectives;,11.039999999999992,False,1,0.0,False,0.7373737373737373,False,4,paragraph
 Electronic information and tools that enhance job skills and the learning,11.039999999999992,False,11,0.0,False,0.7525252525252525,True,4,paragraph
 experience,11.039999999999992,False,1,0.0,False,0.7689393939393939,False,4,paragraph
-For each Ontario student it could mean:,11.039999999999992,True,7,0.0,False,0.8005050505050505,False,4,H4
+For each Ontario student it could mean:,11.039999999999992,True,7,0.0,False,0.8005050505050505,False,4,paragraph
 "One local point of entry to quality, curriculum- based electronic information",11.039999999999992,False,11,0.0,False,0.8156565656565656,True,4,paragraph
 resources and services,11.040000000000006,False,3,1.4210854715202004e-14,False,0.8320707070707071,False,4,paragraph
 "Connection to their individual educational environment, whether at the",11.040000000000006,False,9,0.0,False,0.8484848484848485,True,4,paragraph
@@ -501,7 +501,7 @@ resources and services,11.040000000000006,False,3,1.4210854715202004e-14,False,0
 RFP: To Develop the Ontario Digital Library Business Plan March 2003 5555,7.560000000000002,True,12,-3.480000000000004,False,0.928030303030303,True,4,paragraph
 "Confidence that the services and resources people are using are credible,",11.039999999999964,False,11,3.4799999999999613,False,0.09217171717171717,True,5,paragraph
 available when they need them and adaptable to different learning styles,11.039999999999964,False,11,0.0,False,0.10858585858585859,True,5,paragraph
-For each Ontario library it could mean:,11.039999999999964,True,7,0.0,False,0.14015151515151514,False,5,H4
+For each Ontario library it could mean:,11.039999999999964,True,7,0.0,False,0.14015151515151514,False,5,paragraph
 One point of entry for themselves and their clientele to quality electronic,11.039999999999964,False,12,0.0,False,0.15656565656565657,True,5,paragraph
 "resources and services that support and enhance their collections, programs",11.039999999999964,False,10,0.0,False,0.17297979797979798,True,5,paragraph
 and services,11.039999999999964,False,2,0.0,False,0.18813131313131312,False,5,paragraph
@@ -509,7 +509,7 @@ and services,11.039999999999964,False,2,0.0,False,0.18813131313131312,False,5,pa
 expertise,11.039999999999964,False,1,0.0,False,0.22095959595959597,False,5,paragraph
 "The opportunity to gain from the provincial, collaborative partnership in order",11.039999999999964,False,11,0.0,False,0.2361111111111111,True,5,paragraph
 to provide a seamless gateway to digital resources and services,11.039999999999964,False,10,0.0,False,0.25252525252525254,True,5,paragraph
-For the Ontario government it could mean:,11.039999999999964,True,7,0.0,False,0.2840909090909091,False,5,H4
+For the Ontario government it could mean:,11.039999999999964,True,7,0.0,False,0.2840909090909091,False,5,paragraph
 "A point of entry to information services and resources for all Ontario citizens,",11.039999999999964,False,13,0.0,False,0.3005050505050505,True,5,paragraph
 connecting to portal initiatives .,11.039999999999964,False,5,0.0,False,0.31691919191919193,False,5,paragraph
 Support of the Ontario E-Learning strategy through a collaborative digital,11.039999999999964,False,10,0.0,False,0.33207070707070707,True,5,paragraph
@@ -593,7 +593,7 @@ Bidders are asked not to contact any other member of the ODL Catalyst Team or th
 Committee.,11.039999999999964,False,1,0.0,False,0.42803030303030304,False,7,paragraph
 RFP: To Develop the Ontario Digital Library Business Plan March 2003 8888,7.560000000000002,True,12,-3.4799999999999613,False,0.928030303030303,True,7,paragraph
 Appendix A: ODL Envisioned Phases & Funding,12.0,False,7,4.439999999999998,False,0.1414141414141414,False,8,H2
-Phase I: Business Planning,9.959999999999923,True,4,-2.0400000000000773,False,0.17803030303030304,False,8,H3
+Phase I: Business Planning,9.959999999999923,True,4,-2.0400000000000773,False,0.17803030303030304,False,8,paragraph
 Timeline: March 2003 – September 2003,9.959999999999923,True,6,0.0,False,0.20707070707070707,False,8,paragraph
 "Funding Requested: ~$100,000 jointly funded by stakeholder groups and the provincial government.",9.959999999999923,True,12,0.0,False,0.2222222222222222,True,8,paragraph
 Result: The ODL business plan,9.959999999999923,True,5,0.0,False,0.25,False,8,paragraph
@@ -604,7 +604,7 @@ the full commitment of all stakeholders and scope the operational plan for ODL f
 consultative approach. To ensure that the planning results in a workable plan with the full commitment,9.95999999999998,False,16,5.684341886080802e-14,False,0.3522727272727273,True,8,paragraph
 "of all stakeholders it must have competent, dedicated staffing and monies for the travel and",9.95999999999998,False,15,0.0,False,0.36742424242424243,True,8,paragraph
 communication components so critical in a consultative process.,9.95999999999998,False,8,0.0,False,0.3813131313131313,False,8,paragraph
-Phase II: Implementing and Transitioning,9.95999999999998,True,5,0.0,False,0.42424242424242425,False,8,H3
+Phase II: Implementing and Transitioning,9.95999999999998,True,5,0.0,False,0.42424242424242425,False,8,paragraph
 Timeline: April 2004 – December 2006,9.95999999999998,True,6,0.0,False,0.4532828282828283,False,8,paragraph
 Funding Requested: Funding from other states and provinces suggest that the ODL could receive,9.95999999999998,True,14,0.0,False,0.4684343434343434,True,8,paragraph
 "funding of up to $50 Million (over 3 years). Funding to be provided partnership of government, library",9.95999999999998,False,17,0.0,False,0.48358585858585856,True,8,paragraph
@@ -841,7 +841,7 @@ military that a student has completed a comprehensive course,11.508949799999982,
 of study in a specialized area.,11.508949799999982,False,6,0.0,False,0.47095959595959597,False,0,paragraph
 "• Cultivate transferable work habits such as perseverance, goal",11.508949799999982,False,9,0.0,False,0.48863636363636365,False,0,paragraph
 "setting, and self-direction.",11.508949799999982,False,3,0.0,False,0.5050505050505051,False,0,paragraph
-PATHWAY OPTIONS,15.308160000000044,False,2,3.7992102000000614,False,0.5580808080808081,True,0,H1
+PATHWAY OPTIONS,15.308160000000044,False,2,3.7992102000000614,False,0.5580808080808081,True,0,paragraph
 REGULAR PATHWAY DISTINCTION PATHWAY,15.310199999999952,True,4,0.0020399999999085594,False,0.5909090909090909,True,0,paragraph
 ● 4 credits of Math - At least one math,11.00758350000001,False,10,-4.302616499999942,False,0.6111111111111112,False,0,paragraph
 course should be an AP Math class.,11.00758350000001,False,7,0.0,False,0.6287878787878788,False,0,paragraph
@@ -1600,7 +1600,7 @@ disciplines that should be acting in concert to resolve complex cybersecurity ch
 riched focus on interdisciplinary cybersecurity dialectics and thereby will influence the ap-,10.0,False,12,0.0,False,0.4898989898989899,True,0,paragraph
 "proaches of academia, industry, and government and non-governmental organizations to",10.0,False,10,0.0,False,0.5050505050505051,True,0,paragraph
 cybersecurity challenges.,10.0,False,2,0.0,False,0.5202020202020202,False,0,paragraph
-Introduction,12.0,True,1,2.0,False,0.5946969696969697,False,0,H1
+Introduction,12.0,True,1,2.0,False,0.5946969696969697,False,0,paragraph
 other human dimensions that are inextricably tied to,10.0,False,8,-2.0,False,0.5959595959595959,False,0,paragraph
 "cybersecurity efforts (e.g., Goodall et al., 2009; Buckland",10.0,False,8,0.0,False,0.6111111111111112,False,0,paragraph
 "The term ""cybersecurity"" has been the subject of aca- et al., 2010; Deibert, 2012). Fredrick Chang (2012),",10.0,False,17,0.0,False,0.6262626262626263,True,0,paragraph
@@ -1874,7 +1874,7 @@ www.timreview.ca,8.999999999999996,False,1,-3.000000000000007,False,0.9595959595
 Technology Innovation Management Review October 2014,8.0,False,6,-0.9999999999999964,False,0.05176767676767677,True,7,paragraph
 Defining Cybersecurity,14.0,True,2,6.0,False,0.07828282828282829,False,7,paragraph
 "Dan Craigen, Nadia Diakun-Thibault, and Randy Purse",11.0,False,7,-3.0,False,0.10101010101010101,False,7,paragraph
-References,12.0,True,1,1.0,False,0.14015151515151514,True,7,H1
+References,12.0,True,1,1.0,False,0.14015151515151514,True,7,paragraph
 About the Authors,12.0,True,3,0.0,False,0.1553030303030303,False,7,H1
 "Amoroso, E. 2006. Cyber Security. New Jersey: Silicon Press.",8.0,False,9,-4.0,False,0.17424242424242425,False,7,paragraph
 Dan Craigen is a Science Advisor at the Communica-,10.0,True,9,2.0,False,0.18686868686868688,False,7,paragraph
@@ -2873,7 +2873,7 @@ practices where additional Informative References would help organizations addre
 "might discover that there are few Informative References, if any, for a related activity. To",12.0,False,15,0.0,False,0.45707070707070707,True,24,paragraph
 "address that need, the organization might collaborate with technology leaders and/or standards",12.0,False,12,0.0,False,0.4734848484848485,True,24,paragraph
 "bodies to draft, develop, and coordinate standards, guidelines, or practices.",12.0,False,10,0.0,False,0.4911616161616162,True,24,paragraph
-3.6 Methodology to Protect Privacy and Civil Liberties,11.04000000000002,True,8,-0.9599999999999795,True,0.523989898989899,True,24,H2
+3.6 Methodology to Protect Privacy and Civil Liberties,11.04000000000002,True,8,-0.9599999999999795,True,0.523989898989899,True,24,paragraph
 This section describes a methodology to address individual privacy and civil liberties,12.0,False,12,0.9599999999999795,False,0.547979797979798,True,24,paragraph
 implications that may result from cybersecurity. This methodology is intended to be a general set,12.0,False,15,0.0,False,0.5643939393939394,True,24,paragraph
 of considerations and processes since privacy and civil liberties implications may differ by sector,12.0,False,14,0.0,False,0.5820707070707071,True,24,paragraph
@@ -3081,8 +3081,8 @@ ISA 62443-2-1:2009 4.2.3.4,9.960000000000036,True,3,0.0,False,0.5163398692810458
 "NIST SP 800-53 Rev. 4 AC-4, CA-3, CA-9, PL-8",9.960000000000036,True,9,0.0,False,0.5604575163398693,False,30,paragraph
 ID.AM-4: External information systems CIS CSC 12,9.960000000000008,True,7,-2.842170943040401e-14,False,0.5866013071895425,True,30,paragraph
 are catalogued,9.960000000000008,False,2,0.0,False,0.6045751633986928,True,30,paragraph
-"1. COBIT 5 APO02.02, APO10.04, DSS01.02",9.960000000000008,True,6,0.0,True,0.6078431372549019,False,30,paragraph
-2. ISO/IEC 27001:2013 A.11.2.6,9.960000000000008,True,4,0.0,True,0.630718954248366,False,30,paragraph
+"1. COBIT 5 APO02.02, APO10.04, DSS01.02",9.960000000000008,True,6,0.0,True,0.6078431372549019,False,30,H3
+2. ISO/IEC 27001:2013 A.11.2.6,9.960000000000008,True,4,0.0,True,0.630718954248366,False,30,H3
 "3. NIST SP 800-53 Rev. 4 AC-20, SA-9",9.960000000000008,True,8,0.0,True,0.6519607843137255,False,30,paragraph
 "ID.AM-5: Resources (e.g., hardware, CIS CSC 13, 14",9.960000000000008,True,8,0.0,False,0.6781045751633987,True,30,paragraph
 "devices, data, time, personnel, and",9.960000000000008,False,5,0.0,False,0.6977124183006536,True,30,paragraph
@@ -4190,7 +4190,7 @@ Procedia Computer Science,14.346199999999953,False,3,14.346199999999953,False,0.
 "Volume 80, 2016, Pages 1940–1946",9.962600000000066,False,5,-4.383599999999888,False,0.10233250794086797,True,0,paragraph
 ICCS 2016. The International Conference on Computational,9.962600000000066,False,7,0.0,False,0.13868747786722896,True,0,paragraph
 Science,9.962600000000066,False,1,0.0,False,0.15349876191130193,True,0,Title
-Enhancing Computational Science Curriculum at,18.0,False,5,8.037399999999934,False,0.20735797661702193,True,0,Title
+Enhancing Computational Science Curriculum at,18.0,False,5,8.037399999999934,False,0.20735797661702193,True,0,paragraph
 Liberal Arts Institutions: A Case Study in the Context,18.0,False,9,0.0,False,0.23563406433752493,True,0,Title
 of Cybersecurity,18.0,False,2,0.0,False,0.2625636716903849,True,0,Title
 "1, 2 2",8.520000000000039,False,3,-9.479999999999961,True,0.3083440041902469,True,0,paragraph
@@ -4774,7 +4774,7 @@ positives [28]. The high percentage of false-positive can be translated into cos
 screening of lung cancer using less expensive instruments and non-invasive techniques is a,9.962600000000009,False,13,0.0,False,0.849279597097008,False,4,paragraph
 high priority in diagnosing lung cancer.,9.962600000000009,False,6,0.0,False,0.86353324068465,True,4,paragraph
 "Int. J.Mol. Sci. 2021 , 22 ,8661 6of18",7.970100000000002,False,8,-1.9925000000000068,False,0.0641413961443894,True,5,paragraph
-6.3. Sputum Examination,9.962600000000066,False,3,1.9925000000000637,True,0.11640475596574375,False,5,H2
+6.3. Sputum Examination,9.962600000000066,False,3,1.9925000000000637,True,0.11640475596574375,False,5,paragraph
 "Another diagnostic procedure of lung cancer is the cytological examination of sputa,",9.962599999999952,False,12,-1.1368683772161603e-13,False,0.13540961408259986,False,5,paragraph
 "especially multiple samples, which helps detect central tumors from the larger bronchi",9.962599999999952,False,12,0.0,False,0.14966325767024197,False,5,paragraph
 "(e.g., squamous- and small-cell carcinomas). In general, sputum samples failed to detect",9.962599999999952,False,12,0.0,False,0.16510470489018755,False,5,paragraph
@@ -4927,7 +4927,7 @@ ies using cfDNA showed that a pool sensitivity of 0.8 was calculated with a rang
 an inconsistency of 86.6% and 93.4% was calculated by I-square [48]. These results signify,9.962600000000009,False,14,0.0,False,0.7732601646295835,False,7,paragraph
 that the pooled sensitivity and specificity of the studies are the result of heterogeneity,9.962600000000009,False,14,0.0,False,0.788701611849529,False,7,paragraph
 rather than chance.,9.962600000000009,False,3,0.0,False,0.8029552554371712,False,7,paragraph
-8.2. Blood Circulating Antigens,9.962600000000009,False,4,0.0,True,0.8302747389801518,False,7,H2
+8.2. Blood Circulating Antigens,9.962600000000009,False,4,0.0,True,0.8302747389801518,False,7,paragraph
 A number of antigens found in blood have been assessed over the years as potential,9.962600000000009,False,15,0.0,False,0.8480917934647044,False,7,paragraph
 "biomarkers of lung cancer. The most studied biomarkers include CYFRA 21-1, carcinoem-",9.962600000000009,False,12,0.0,False,0.86353324068465,False,7,paragraph
 "briogenic antigen (CEA), neuron specific enolase (NSE), and squamous cell carcinoma",9.962600000000009,False,11,0.0,False,0.8777868842722921,False,7,paragraph
@@ -5097,7 +5097,7 @@ multistep process of lung carcinogenesis [64].,9.962600000000009,False,6,0.0,Fal
 limited to bronchial biopsies of pre-malignant airway lesions [65].,9.962600000000009,False,9,0.0,False,0.8480917934647044,True,10,paragraph
 microRNA and methylome in plasma or urine.,9.962600000000009,False,7,0.0,False,0.86353324068465,True,10,paragraph
 "Int. J.Mol. Sci. 2021 , 22 ,8661 12of18",7.970100000000002,False,8,-1.9925000000000068,False,0.0641413961443894,True,11,paragraph
-10.2. Bronchoalveolar Lavage (BAL),9.962600000000066,False,4,1.9925000000000637,True,0.11640475596574375,True,11,H2
+10.2. Bronchoalveolar Lavage (BAL),9.962600000000066,False,4,1.9925000000000637,True,0.11640475596574375,True,11,paragraph
 Routine cytopathological analysis of bronchoalveolar lavage (BAL) specimens has,9.962599999999952,False,9,-1.1368683772161603e-13,False,0.13540961408259986,False,11,paragraph
 "been used as a common diagnosis over the years. Currently, BAL is another specimen sam-",9.962599999999952,False,15,0.0,False,0.14966325767024197,False,11,paragraph
 ple where the use of molecular biomarkers for early diagnosis is exploited. BAL involves,9.962599999999952,False,14,0.0,False,0.16510470489018755,False,11,paragraph
@@ -6004,7 +6004,7 @@ Key enterprise which meets the needs of the government Fig. 1 depicts NCAF clust
 and their partners and allies.,7.970100000000002,False,5,0.0,False,0.29599959693671907,False,4,paragraph
 •,7.970100000000002,False,1,0.0,False,0.30733575171301897,False,4,paragraph
 Objective 4: Securing the next generation of connected,7.970100000000002,False,8,0.0,False,0.3098548972188634,False,4,paragraph
-2.5. NCSP 4 - Canada,7.970100000000002,False,5,0.0,True,0.31615276098347445,True,4,H2
+2.5. NCSP 4 - Canada,7.970100000000002,False,5,0.0,True,0.31615276098347445,True,4,paragraph
 "technologies and infrastructure, and ensuring that the UK",7.970100000000002,False,8,0.0,False,0.32245062474808545,False,4,paragraph
 achieves low-dependence on the global market and that the,7.970100000000002,False,9,0.0,False,0.33630592503022977,False,4,paragraph
 The National Cybersecurity Action Plan (2019–2024) is the,7.970100000000002,False,8,0.0,False,0.3426037887948408,False,4,paragraph
@@ -6375,7 +6375,7 @@ outline cybersecurity education and training program learning out-,7.97009999999
 "ACM, 2017 ). evaluation shows promising results ( Breitinger et al., 2021 ).",7.970100000000002,False,13,0.0,False,0.0995062474808545,True,8,paragraph
 ENISA perceives the fact that the development of an European,7.970100000000002,False,10,0.0,False,0.11210197501007658,False,8,paragraph
 Cybersecurity Skills Framework is an integral act that shall shape,7.970100000000002,False,10,0.0,False,0.12469770253929868,False,8,paragraph
-3.3. British computer society,7.970100000000002,False,4,0.0,True,0.12847642079806532,False,8,H2
+3.3. British computer society,7.970100000000002,False,4,0.0,True,0.12847642079806532,False,8,paragraph
 "the Europe’s digital future and prosperity ( Nurse et al., 2021 ). A",7.970100000000002,False,13,0.0,False,0.13855300282144298,False,8,paragraph
 group of professionals were assigned to design the framework with,7.970100000000002,False,10,0.0,False,0.15114873035066506,False,8,paragraph
 The BCS has established and defined accreditation standards,7.970100000000002,False,8,0.0,False,0.1549274486094317,False,8,paragraph
@@ -6452,7 +6452,7 @@ the NCSP goals and priorities.,7.970100000000002,False,5,0.0,False,0.66379484079
 standards. Dynamic Revision Process: Cybersecurity programs are re-,7.970100000000002,False,8,0.0,False,0.6763905683192262,True,8,paragraph
 quired to have a dynamic revision process for their curricula,7.970100000000002,False,10,0.0,False,0.6902458686013705,False,8,paragraph
 "and be able to cope with new and emerging technologies, new",7.970100000000002,False,11,0.0,False,0.7028415961305925,False,8,paragraph
-3.6. Other frameworks and concepts,7.970100000000002,False,5,0.0,True,0.7053607416364369,False,8,H2
+3.6. Other frameworks and concepts,7.970100000000002,False,5,0.0,True,0.7053607416364369,False,8,paragraph
 "forms of cyber threats and attacks, and knowledge of new inno-",7.970100000000002,False,11,0.0,False,0.7166968964127368,False,8,paragraph
 "vative solutions ( Cobb, 2016; Crumpler and Lewis, 2019; Kreider",7.970100000000002,False,10,0.0,False,0.7292926239419589,False,8,paragraph
 "Several studies have proposed frameworks to create, develop,",7.970100000000002,False,8,0.0,False,0.7318117694478034,False,8,paragraph
@@ -6994,7 +6994,7 @@ Issue: Updating cybersecurity education program’s curricula.,7.970100000000002
 Theme (object): Cybersecurity Education and Training Pro-,7.970100000000002,True,7,0.0,False,0.4458887545344619,False,14,paragraph
 nificantly to the information security discipline.,7.970100000000002,False,6,0.0,False,0.44840790004030634,False,14,paragraph
 grams’ Curricula.,7.970100000000002,False,2,0.0,False,0.45974405481660624,False,14,paragraph
-5. Demonstrate advanced oral and written communication skills,7.970100000000002,False,8,0.0,True,0.46100362756952845,False,14,paragraph
+5. Demonstrate advanced oral and written communication skills,7.970100000000002,False,8,0.0,True,0.46100362756952845,False,14,H2
 •,7.970100000000002,False,1,0.0,False,0.4710802095929061,False,14,paragraph
 Viewpoint: Cybersecurity Education and Training,7.970100000000002,True,5,0.0,False,0.4723397823458283,False,14,paragraph
 individually and collectively.,7.970100000000002,False,3,0.0,False,0.4748589278516727,False,14,paragraph
@@ -10757,7 +10757,7 @@ il,1.5401200000000017,False,1,-2.459760000000017,False,0.5792657806230602,False,
 e,2.459760000000017,False,1,0.9196400000000153,False,0.5830110335150197,False,11,paragraph
 y,2.769999999999982,False,1,0.31023999999996477,False,0.585507868776326,False,11,paragraph
 required to be in the size range of tens to hundreds of nm;,10.000099999999975,False,13,7.230099999999993,False,0.5867562864069792,False,11,paragraph
-Nanoparticles as Imaging Agents,11.999900000000025,False,4,1.9998000000000502,False,0.5880047040376323,False,11,H1
+Nanoparticles as Imaging Agents,11.999900000000025,False,4,1.9998000000000502,False,0.5880047040376323,False,11,paragraph
 .,1.384999999999991,False,1,-10.614900000000034,False,0.5892531216682855,False,11,paragraph
 c,2.459760000000017,False,1,1.0747600000000261,False,0.5905015392989386,False,11,paragraph
 o,2.769999999999982,False,1,0.31023999999996477,False,0.594246792190898,False,11,paragraph
@@ -14672,7 +14672,7 @@ reputation in these somewhat posturing times. But his,11.0,False,8,0.0,False,0.7
 will outlive nearly all the writers of his day.,11.0,False,9,0.0,False,0.7561862733409224,True,9,paragraph
 John Galsworthy,11.0,False,2,0.0,False,0.8002835290217105,False,9,paragraph
 xvii,12.0,False,1,1.0,False,0.0506301824483123,False,10,paragraph
-Contents,17.0,False,1,5.0,False,0.1094265233560298,True,10,H1
+Contents,17.0,False,1,5.0,False,0.1094265233560298,True,10,paragraph
 story page,12.0,False,2,-5.0,False,0.16658963257186626,True,10,paragraph
 i. Miss Bracegirdle Does Her Duty 1,11.0,False,7,-1.0,False,0.21721981502017856,True,10,paragraph
 ii. A Source of Irritation 21,11.0,False,6,0.0,False,0.2384518270146321,True,10,paragraph

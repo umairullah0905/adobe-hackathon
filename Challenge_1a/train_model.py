@@ -7,7 +7,7 @@ from sklearn.metrics import classification_report
 import joblib
 
 # Load the dataset
-df = pd.read_csv('training_datas.csv')
+df = pd.read_csv('D:/adobe-hackathon/Challenge_1a/training_datas.csv')
 
 # --- CHANGE: Add the new features to the list ---
 features = [
@@ -35,5 +35,5 @@ print("\nEvaluating model on test data...")
 y_pred = model.predict(X_test)
 print(classification_report(y_test, y_pred))
 
-joblib.dump(model, 'heading_classifier.joblib')
+joblib.dump(model, 'D:/adobe-hackathon/Challenge_1a/heading_classifier.joblib')
 print("\nModel saved to heading_classifier.joblib")
