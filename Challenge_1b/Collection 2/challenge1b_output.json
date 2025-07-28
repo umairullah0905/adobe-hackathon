@@ -1,0 +1,113 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28T07:15:42.250006"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 7,
+      "section_title": "Is the form fillable?",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 11,
+      "section_title": "Change flat forms to fillable (Acrobat Pro)",
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 11,
+      "section_title": "Interactive form",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 7,
+      "section_title": "Compliance Standard",
+      "importance_rank": 4
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 20,
+      "section_title": "PDF/A Compliance",
+      "importance_rank": 5
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 1,
+      "section_title": "Types of PDF forms",
+      "importance_rank": 6
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 19,
+      "section_title": "Manage your bulk sends",
+      "importance_rank": 7
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "Flat form",
+      "importance_rank": 8
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 9,
+      "section_title": "Fill in interactive forms",
+      "importance_rank": 9
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 8,
+      "section_title": "Note:  Signers are not required to sign up or purchase any Adobe product to sign agreements.  They can sign agreements using a web browser, mobile device, or Acrobat / Acrobat Reader  desktop application.",
+      "importance_rank": 10
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 7,
+      "refined_text": "Not all forms are fillable. Sometimes form creators don\u2019t convert their PDFs to  interactive  fillable  forms. Or, they intentionally design a form that you can fill in only by hand  or with the  Fill & Sign  tool. These non-interactive forms are called  flat  forms."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 11,
+      "refined_text": "You can change a flat form to a fillable form by either using the  Prepare Form  tool or  enabling the  Fill & Sign  tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool  to fill in flat forms."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 11,
+      "refined_text": "To create an interactive form, use the  Prepare Forms  tool. See  Create a form from an existing  document ."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 7,
+      "refined_text": "Specify the PDF/A or PDF/E compliance standard, or none."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 20,
+      "refined_text": "Creates the PDF so that it conforms to the selected ISO standard for long-term preservation of  electronic documents."
+    }
+  ]
+}

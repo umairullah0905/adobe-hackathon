@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "input_documents": [
+      "cyber 1.pdf",
+      "cyber 2.pdf",
+      "cyber 3.pdf",
+      "cyber 4.pdf"
+    ],
+    "persona": "Cybersecurity Curriculum Designer",
+    "job_to_be_done": "Produce a structured answer containing essential definitions, main curriculum frameworks, strategies for course/module creation, and current best practices in cybersecurity education as extracted from these documents.",
+    "processing_timestamp": "2025-07-28T07:16:26.801216"
+  },
+  "extracted_sections": [
+    {
+      "document": "cyber 4.pdf",
+      "page_number": 11,
+      "section_title": "The   learning   outcomes   of   cybersecurity   education   and   aware-   ness   are   incorporated   in   its   curriculum   in   the   form   of   key-   knowledge   areas,   skill   sets,   and   competencies.   Cybersecurity   edu-   cation   and   awareness   programs   are   required   to   revise   these   aspects   periodically   in   order   to   ensure   that   their   standards   meet   the   la-   bor   market   demands   for   the   professional   cybersecurity   workforce.   Revision   is   done   regularly   to   incorporate   new   or   emerging   key-   knowledge   areas,   skill   sets,   and   competencies.   These   revisions   are   in\ufb02uenced   by   several   factors   such   as   coordinating   the   cybersecu-   rity   curriculum   material   with   the   NCSP,   as   well   as   adding   new   trends   in   digital   and   information   technology,   and   the   latest   re-   search   and   innovation   in   this   discipline.   Several   frameworks   have   been   proposed   to   emphasize   the   factors   which   in\ufb02uence   curricu-   lum   design   and   delivery.   Accreditation   standards   impose   manda-   tory   revision   cycles   of   program   curricula   and   self-assessments   in   order   to   ensure   its   e\ufb03cacy   in   the   goal   towards   achieving   stu-   dent   learning   outcomes.   For   instance,   the   NICE   framework   has   been   designed   to   provide   a   lexicon   for   the   cybersecurity   workforce   (   Newhouse   et   al.,   2017;   Petersen   et   al.,   2020   ).   ENISA   intends   to   de-   velop   a   European   Cybersecurity   Skills   Framework   to   create   a   com-   mon   understanding   of   the   relevant   roles,   competencies,   skills   and   knowledge   (   Nurse   et   al.,   2021   ).   IEEE   and   ACM   created   a   joint   effort   to   propose   guidelines   for   de\ufb01ning   the   structure   and   fundamental   topics   to   be   incorporated   into   cybersecurity   discipline   (   IEEE   Com-   puter   Society   and   ACM,   2017   ).These   guidelines   suggest   that   the   key   cybersecurity   knowledge   areas   include   topics   such   as   data   security,   software   security,   network   security,   human   security,   and   organiza-   tional   security.   The   BCS   has   proposed   accreditation   guidelines   for   professional   and   academic   cybersecurity   programs   (   Irons   et   al.,   2016   ).   These   guidelines   emphasize   important   key-knowledge   areas   in   this   disci-   pline   and   require   cybersecurity   programs   to   include   practical   com-   ponents   in   their   curricula.   The   UAE\u2019s   Commission   of   Academic   Ac-   creditation   (CAA)   new   accreditation   standard   of   2019   has   an   aca-   demic   program   based   on   its   risk-pro\ufb01le   (   Commission   of   Academic   Accreditation-   Ministry   of   Education,   2019   ).",
+      "importance_rank": 1
+    },
+    {
+      "document": "cyber 3.pdf",
+      "page_number": 1,
+      "section_title": "Procedia Computer Science",
+      "importance_rank": 2
+    },
+    {
+      "document": "cyber 3.pdf",
+      "page_number": 6,
+      "section_title": "4.2   Existing Curriculum Updates",
+      "importance_rank": 3
+    },
+    {
+      "document": "cyber 3.pdf",
+      "page_number": 2,
+      "section_title": "2   Related Work",
+      "importance_rank": 4
+    },
+    {
+      "document": "cyber 4.pdf",
+      "page_number": 0,
+      "section_title": "a   b   s   t   r   a   c   t",
+      "importance_rank": 5
+    },
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 19,
+      "section_title": "3.0 How to Use the Framework",
+      "importance_rank": 6
+    },
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 14,
+      "section_title": "Figure 1: Framework Core Structure",
+      "importance_rank": 7
+    },
+    {
+      "document": "cyber 3.pdf",
+      "page_number": 4,
+      "section_title": "4   Course Development and Update",
+      "importance_rank": 8
+    },
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 10,
+      "section_title": "1.1  Overview of the Framework",
+      "importance_rank": 9
+    },
+    {
+      "document": "cyber 4.pdf",
+      "page_number": 15,
+      "section_title": "Learning   outcomes   produced   from   implementing   the   GQO+Strategies   paradigm   to   align   cybersecurity   curricula   improve-   ment   program   with   cybersecurity   strategies   are   benchmarked   against   the   master   program\u2019s   learning   outcomes.   Comparing   between   GQO+Strategies   learning   outcomes   and   PLOs,   we   the   pro-   gram   needs   improvement   in   order   to   align   cybersecurity   curricula   improvement   goals   with   overall   cybersecurity   strategic   goals.   For   instance,   the   enrichment   goal   is   not   ful\ufb01lled   in   any   of   the   program   learning   outcomes.   Hence,   it   is   expected   that   graduates   of   this   program   will   not   have   the   adequate   competencies   to   deliver   pro-   fessional   training   not   awareness   programs   to   individuals.   Table   7   shows   the   bench-marking   results.   The   benchmarking   practice   explored   some   shortcomings   in   the   UAEU   master   program.   It   was   found   that   the   program   offered   PLOs   that   do   not   cover   all   cybersecurity   workforce   categories   needed   to   ful\ufb01ll   the   nation\u2019s   NCSP.   For   example,   a   gap   analysis   study   con-   ducted   by   Crumpler   and   Lewis   (2019)   indicated   the   urgent   need   for   competent   cybersecurity   professionals   to   operate   and   maintain   information   technology   infrastructure   securely.   This   particular   set   of   competencies   corresponds   to   various   speciality   areas   that   un-   dergo   the   \u2018Operate   and   Maintain\u2019   category   of   cybersecurity   work-   force   framework.   None   of   the   PLOs   in   the   MSc.   in   Information   Se-   curity   emphasized   on   or   introduced   enrichment-related   competen-   cies.   Thus,   this   could   be   considered   as   another   area   for   improve-   ment.   In   addition,   PLOs   delivered   by   the   UAEU   master   program   were   found   to   contribute   signi\ufb01cantly   to   defending   more   than   de-   velopment   and   neglected   enrichment   competencies.   Some   of   the   learning   outcomes   of   the   program   are   introduced   to   adhere   to   national   accreditation   standards,   such   as   PLO-5.   Finally,   PLO-6   is   found   to   be   generic   and   does   not   speci\ufb01cally   correspond   to   any   speci\ufb01c   cybersecurity   workforce   competency   nor   to   the   identi\ufb01ed   learning   outcomes   from   GQO+Strategies   approach.   This   learning",
+      "importance_rank": 10
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "cyber 4.pdf",
+      "page_number": 11,
+      "refined_text": "11 S.   AlDaajeh,   H.   Saleous,   S.   Alrabaee   et   al.   Computers   &   Security   119   (2022)   102754"
+    },
+    {
+      "document": "cyber 3.pdf",
+      "page_number": 1,
+      "refined_text": "Volume 80 , 2016, Pages 1940\u20131946 ICCS 2016. The International Conference on Computational Science 1940 Selection and peer-review under responsibility of the Scienti\ufb01c Programme Committee of ICCS 2016 c \u20dd The Authors. Published by Elsevier B.V. usually involves in new course developments and security content infusion [4]. Institutions with  significant human and financial resources can build up a cybersecurity program relatively fast. Smaller  liberal art institutions usually lack the expertise in cybersecurity, have limited resources, and need to  deliver content in a short timeframe. Thus, liberal arts colleges usually start with one or two new courses  in information assurance, hacking, or network security. Ashland University offered courses on network  security and gray hat hacking in spring 2015 before a comprehensive minor was proposed [5]. This  strategy provides valuable leads into further program development and allows faculty members to gain  training and experience in offering a more comprehensive cybersecurity curriculum. One potential pitfall of cybersecurity program development is the overwhelming focus on technical  training in specific courses and focus only on Information Systems or Computer Science majors. In  addition to educating technologically competent professionals in cybersecurity, we also need, for  example, managers with both knowledge of cybersecurity concepts and a useful framework for  developing an organizational culture that will rapidly identify and eliminate mistakes. Managers with a  cybersecurity training can make companies less vulnerable to cyber-attacks. Thus, a comprehensive  curriculum update involving related programs and departments should be implemented if possible.  Students in these related programs, such as business, criminal justice, and law, will benefit from  exposure to cybersecurity topics. This paper is organized as follows. Section 2 discusses related work in cybersecurity curriculum  development. In Section 3, we present a case study of computational science curriculum enhancement  in the context of cybersecurity. Three major venues of curriculum enhancement: cybersecurity minor,  cybersecurity content integration, and cybersecurity awareness are discussed in details in this section.  In Section 4, we provide descriptions of newly created courses as well updates made to existing courses  related to cybersecurity. Section 5 concludes the paper."
+    },
+    {
+      "document": "cyber 3.pdf",
+      "page_number": 6,
+      "refined_text": "In this section, we provide descriptions of cybersecurity components that are infused into existing  courses. Each of these courses incorporates information security topics that are integrated into other  knowledge areas that reflect naturally implied or specified topics with a strong role in security concepts  and topics. Thus, these courses conform to ACM-IEEE Task Force curriculum guidelines for Group 2  of the Information Assurance and Security Knowledge Area [14]. \u0010   Programming in Java: The current computer science curriculum has two courses in the  introductory programming sequence. Computer science majors take them in their first year.  Integrated cybersecurity components of these courses include input and output validations,  safer array indexes, canonical file path representations, safer random number generator, and  software testing.  \u0010   Advanced Web Programming, a computer science elective course. It is a continuation of  another computer science course on Web Design and Programming. Cybersecurity  components that have been added to this course include best practices for securing dynamic  websites, SSL and its utilization, including SSL certificate and their installation, security  issues with user authorization, database security, OS security, and email security. Enhancing Computational Science Curriculum at Liberal Arts Institutions P. Cao and I. Ajwa 1944 \u0010   Computer Architecture, a sophomore level computer science course that requires students  to complete a data structure course and two courses in discrete mathematics. A unit  addressing hardware insecurity including chip vulnerability has been infused into this  course.  \u0010   Operating Systems, a required senior level computer science course. Units on security and  protection have been incorporated.  \u0010   Computer Networks, an elective junior/senior level computer science course. Components  of cryptography, symmetric-key and public key algorithms, and authentication protocols  have been infused.  \u0010   Software Engineering, a required senior level computer science course where students  complete their capstone project. The course will address common software security  practices such as risk analysis, privilege issues, and sandboxing. Potential problems in  software design related to security will also be covered.  \u0010   Forensic Accounting, a business course that will include coverage of how to detect and  prevent accounting fraud via information systems and networks.  \u0010   Supply Chain Management, a business course that will enhance existing coverage of supply  chain security and risk management, particularly regarding the protection of critical  information systems infrastructure, and also risks specific to security in the cyber supply  chain.  \u0010   ERP Systems, a business course that will include coverage of how to protect ERP systems  from cyber-attack. The following chart illustrates the relationship between courses that are affected in the computer science  curriculum. Note that the data structures course is a prerequisite of almost all computer science courses.  Thus, it is listed in the figure below though it is not been infused with cybersecurity concepts. Figure 1. Courses that are either updated or newly developed related to cybersecurity Enhancing Computational Science Curriculum at Liberal Arts Institutions P. Cao and I. Ajwa 1945"
+    },
+    {
+      "document": "cyber 3.pdf",
+      "page_number": 2,
+      "refined_text": "Cybersecurity related curriculum development has many focuses and variations. One group of work  focuses on a single aspect of the curriculum development. For example, Brown  et al.  [6] reported their  experience with the development of a single introductory cyber-security course in the US Naval  Academy. Their experience report covered many challenges with the development of a cybersecurity  course, such as the shortage of faculty expertise, technical content selection, and the need for short  turnaround time. Greenlaw  et al.  [7] discussed their experience in building a lab course in network  reconnaissance, attack and defense. Their work shares valuable curriculum development experiences  and contributes to an ever-increasing content pool necessary for any successful cybersecurity program.  However, their work lacks the global view on what a complete cybersecurity curriculum would be  composed of. Another group of existing curriculum development efforts stresses on the integration of  cybersecurity topics into the overall CS curriculum. For example, Bratus  et al.  [8] integrated hacking  principles into the undergraduate curriculum at Dartmouth College. Authors in [9] proposed a system  approach that incorporates both hardware and software in cyber assurance education. The authors build  a complete Information Assurance B.S. curriculum at the University of South Alabama and the paper  included a comparison of two cybersecurity B.S. degrees at the University of Maryland University  College and at Louisiana Technical University. This group of work offers a complete curriculum  development experience, mostly on the technical contents of a cybersecurity degree. However, most of  the work lacks broader collaborations with other departments or programs. Two existing experience reports focus on the development of a cybersecurity minor. Dardick  et al. [10] discussed a minor in digital forensics, and Katz [11, 12] shared experience in building up a  cybersecurity minor at the Armstrong Atlantic State University. A minor in cybersecurity requires fewer Enhancing Computational Science Curriculum at Liberal Arts Institutions P. Cao and I. Ajwa 1941 resources and may achieve targeted cybersecurity education goals through innovative curriculum design  and inter-program collaborations."
+    },
+    {
+      "document": "cyber 4.pdf",
+      "page_number": 0,
+      "refined_text": "Digital   information   and   telecommunication   technologies   have   not   only   become   essential   to   individuals\u2019   daily   lives   but   also   to   a   nation\u2019s   sustained   economic   growth,   societal   well-being,   critical   infrastructure   resilience,   and   national   security.   Consequently,   the   protection   of   a   nation\u2019s   cyber   sovereignty   from   mali-   cious   acts   is   a   major   concern.   This   signi\ufb01es   the   importance   of   cybersecurity   education   in   facilitating   the   creation   of   a   resilient   cybersecurity   ecosystem   and   in   supporting   cyber   sovereignty.   This   study   reviews   a   sample   from   world-leading   countries   National   Cybersecurity   Strategic   Plans   (NCSPs)   and   analyzes   the   associated   existing   cybersecurity   education   and   training   improvement   initiatives.   Furthermore,   a   proposal   to   adopt   the   Goal-Question-Outcomes(GQO)+Strategies   paradigm   into   cybersecurity   education   and   train-   ing   programs   curricula   improvement   to   national   cybersecurity   strategic   goals   is   presented.   The   proposal   maps   cybersecurity   strategic   goals   to   cybersecurity   skills   and   competencies   using   the   National   Initiative   for   Cybersecurity   Education   (NICE)   framework.   The   newly   proposed   cybersecurity   education   and   train-   ing   programs\u2019   curricula   learning   outcomes   were   generated   from   the   GQO+Strategies   paradigm   based   on   the   three   major   cybersecurity   strategic   goals:   Development   of   secure   digital   and   information   technology   infrastructure   and   services,   defending   from   sophisticated   cyber   threats,   and   enrichment   of   individuals\u2019   cybersecurity   maturity   and   awareness.   It   is   highly   recommended   that   cybersecurity   university   program   administrators   utilize   the   proposed   GQO+Strategies   to   align   their   program\u2019s   curriculum   to   NCSP.   Hence,   closing   the   gap   that   exists   with   the   relevant   skills   and   sustain   national   cybersecurity   workforces. \u00a9 2022   Elsevier   Ltd.   All   rights   reserved."
+    }
+  ]
+}

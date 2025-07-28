@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processing_timestamp": "2025-07-28T07:15:55.986425"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 4,
+      "section_title": "Banchan",
+      "importance_rank": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 2,
+      "section_title": "Antipasto",
+      "importance_rank": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 3,
+      "section_title": "Instructions:",
+      "importance_rank": 3
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 9,
+      "section_title": "Instructions:",
+      "importance_rank": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "section_title": "Oatmeal  Ingredients:",
+      "importance_rank": 5
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 13,
+      "section_title": "Instructions:",
+      "importance_rank": 6
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 14,
+      "section_title": "Instructions:",
+      "importance_rank": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 5,
+      "section_title": "side.",
+      "importance_rank": 8
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 8,
+      "section_title": "Breakfast Casserole  Ingredients:",
+      "importance_rank": 9
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 15,
+      "section_title": "Instructions:",
+      "importance_rank": 10
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 4,
+      "refined_text": "\uf0b7   Ingredients : o   Assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi \uf0b7   Instructions : o   Prepare each side dish separately.  o   Arrange on small plates.  o   Serve as accompaniments to the main meal."
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 2,
+      "refined_text": "\uf0b7   Ingredients : o   Assorted cured meats (salami, prosciutto)  o   Cheeses (mozzarella, provolone)  o   Olives  o   Marinated vegetables (artichokes, peppers)  o   Breadsticks \uf0b7   Instructions : o   Arrange meats, cheeses, olives, and vegetables on a platter.  o   Serve with breadsticks."
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 3,
+      "refined_text": "\u2022   In a bowl, combine the tuna, mayonnaise, Dijon mustard, celery, and red onion. \u2022   Season with salt and pepper. \u2022   Serve on lettuce leaves or whole grain bread."
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 9,
+      "refined_text": "\u2022   In a bowl, combine quinoa, black beans, avocado, and cherry tomatoes. \u2022   Top with the poached or fried egg. \u2022   Drizzle with olive oil and season with salt and pepper. \u2022   Serve immediately."
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "refined_text": "\u2022   1 cup rolled oats \u2022   2 cups water or milk \u2022   1/4 teaspoon salt \u2022   Toppings: fresh fruit, nuts, honey, cinnamon"
+    }
+  ]
+}

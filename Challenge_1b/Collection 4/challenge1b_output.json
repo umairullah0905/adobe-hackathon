@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "input_documents": [
+      "cyber 1.pdf",
+      "cyber 2.pdf",
+      "cyber 3.pdf",
+      "cyber 4.pdf"
+    ],
+    "persona": "AI Cybersecurity Scholar",
+    "job_to_be_done": "Identify and organize the key concepts, frameworks, methodologies, and definitions from these documents, suitable for training a large language model.",
+    "processing_timestamp": "2025-07-28T07:16:12.188604"
+  },
+  "extracted_sections": [
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 14,
+      "section_title": "Figure 1: Framework Core Structure",
+      "importance_rank": 1
+    },
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 19,
+      "section_title": "3.0 How to Use the Framework",
+      "importance_rank": 2
+    },
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 20,
+      "section_title": "3.1  Basic Review of Cybersecurity Practices",
+      "importance_rank": 3
+    },
+    {
+      "document": "cyber 4.pdf",
+      "page_number": 11,
+      "section_title": "The   learning   outcomes   of   cybersecurity   education   and   aware-   ness   are   incorporated   in   its   curriculum   in   the   form   of   key-   knowledge   areas,   skill   sets,   and   competencies.   Cybersecurity   edu-   cation   and   awareness   programs   are   required   to   revise   these   aspects   periodically   in   order   to   ensure   that   their   standards   meet   the   la-   bor   market   demands   for   the   professional   cybersecurity   workforce.   Revision   is   done   regularly   to   incorporate   new   or   emerging   key-   knowledge   areas,   skill   sets,   and   competencies.   These   revisions   are   in\ufb02uenced   by   several   factors   such   as   coordinating   the   cybersecu-   rity   curriculum   material   with   the   NCSP,   as   well   as   adding   new   trends   in   digital   and   information   technology,   and   the   latest   re-   search   and   innovation   in   this   discipline.   Several   frameworks   have   been   proposed   to   emphasize   the   factors   which   in\ufb02uence   curricu-   lum   design   and   delivery.   Accreditation   standards   impose   manda-   tory   revision   cycles   of   program   curricula   and   self-assessments   in   order   to   ensure   its   e\ufb03cacy   in   the   goal   towards   achieving   stu-   dent   learning   outcomes.   For   instance,   the   NICE   framework   has   been   designed   to   provide   a   lexicon   for   the   cybersecurity   workforce   (   Newhouse   et   al.,   2017;   Petersen   et   al.,   2020   ).   ENISA   intends   to   de-   velop   a   European   Cybersecurity   Skills   Framework   to   create   a   com-   mon   understanding   of   the   relevant   roles,   competencies,   skills   and   knowledge   (   Nurse   et   al.,   2021   ).   IEEE   and   ACM   created   a   joint   effort   to   propose   guidelines   for   de\ufb01ning   the   structure   and   fundamental   topics   to   be   incorporated   into   cybersecurity   discipline   (   IEEE   Com-   puter   Society   and   ACM,   2017   ).These   guidelines   suggest   that   the   key   cybersecurity   knowledge   areas   include   topics   such   as   data   security,   software   security,   network   security,   human   security,   and   organiza-   tional   security.   The   BCS   has   proposed   accreditation   guidelines   for   professional   and   academic   cybersecurity   programs   (   Irons   et   al.,   2016   ).   These   guidelines   emphasize   important   key-knowledge   areas   in   this   disci-   pline   and   require   cybersecurity   programs   to   include   practical   com-   ponents   in   their   curricula.   The   UAE\u2019s   Commission   of   Academic   Ac-   creditation   (CAA)   new   accreditation   standard   of   2019   has   an   aca-   demic   program   based   on   its   risk-pro\ufb01le   (   Commission   of   Academic   Accreditation-   Ministry   of   Education,   2019   ).",
+      "importance_rank": 4
+    },
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 10,
+      "section_title": "1.1  Overview of the Framework",
+      "importance_rank": 5
+    },
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 12,
+      "section_title": "2.0 Framework Basics",
+      "importance_rank": 6
+    },
+    {
+      "document": "cyber 1.pdf",
+      "page_number": 4,
+      "section_title": "A New Definition of Cybersecurity",
+      "importance_rank": 7
+    },
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 3,
+      "section_title": "Update  Description of Update",
+      "importance_rank": 8
+    },
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 18,
+      "section_title": "2.3  Framework Profile",
+      "importance_rank": 9
+    },
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 29,
+      "section_title": "Appendix A: Framework Core",
+      "importance_rank": 10
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 14,
+      "refined_text": "The Framework Core elements work together as follows: \uf0b7   Functions  organize basic cybersecurity activities at their highest level. These Functions are Identify, Protect, Detect, Respond, and Recover. They aid an organization in  expressing its management of cybersecurity risk by organizing information, enabling risk  management decisions, addressing threats, and improving by learning from previous  activities. The Functions also align with existing methodologies for incident management  and help show the impact of investments in cybersecurity. For example, investments in  planning and exercises support timely response and recovery actions, resulting in reduced  impact to the delivery of services. April 16, 2018   Cybersecurity Framework  Version 1.1 This publication is available free of charge from: https://doi.org/10.6028/NIST.CSWP.04162018     7 \uf0b7   Categories  are the subdivisions of a Function into groups of cybersecurity outcomes closely tied to programmatic needs and particular activities. Examples of Categories  include \u201cAsset Management,\u201d \u201cIdentity Management and Access Control,\u201d and  \u201cDetection Processes.\u201d \uf0b7   Subcategories  further divide a Category into specific outcomes of technical and/or management activities. They provide a set of results that, while not exhaustive, help  support achievement of the outcomes in each Category. Examples of Subcategories  include \u201cExternal information systems are catalogued,\u201d \u201cData-at-rest is protected,\u201d and  \u201cNotifications from detection systems are investigated.\u201d \uf0b7   Informative References  are specific sections of standards, guidelines, and practices common among critical infrastructure sectors that illustrate a method to achieve the  outcomes associated with each Subcategory. The Informative References presented in the  Framework Core are illustrative and not exhaustive. They are based upon cross-sector  guidance most frequently referenced during the Framework development process. The five Framework Core Functions are defined below. These Functions are not intended to  form a serial path or lead to a static desired end state. Rather, the Functions should be performed  concurrently and continuously to form an operational culture that addresses the dynamic  cybersecurity risk. See  Appendix A  for the complete Framework Core listing. \uf0b7   Identify  \u2013 Develop an organizational understanding to manage cybersecurity risk to systems, people, assets, data, and capabilities. The activities in the Identify Function are foundational for effective use of the  Framework. Understanding the business context, the resources that support critical  functions, and the related cybersecurity risks enables an organization to focus and  prioritize its efforts, consistent with its risk management strategy and business needs.  Examples of outcome Categories within this Function include: Asset Management;  Business Environment; Governance; Risk Assessment; and Risk Management Strategy. \uf0b7   Protect  \u2013 Develop and implement appropriate safeguards to ensure delivery of critical services. The Protect Function supports the ability to limit or contain the impact of a potential  cybersecurity event. Examples of outcome Categories within this Function include:  Identity Management and Access Control; Awareness and Training; Data Security;  Information Protection Processes and Procedures; Maintenance; and Protective  Technology. \uf0b7   Detect  \u2013 Develop and implement appropriate activities to identify the occurrence of a cybersecurity event. The Detect Function enables timely discovery of cybersecurity events. Examples of  outcome Categories within this Function include: Anomalies and Events; Security  Continuous Monitoring; and Detection Processes. April 16, 2018   Cybersecurity Framework  Version 1.1 This publication is available free of charge from: https://doi.org/10.6028/NIST.CSWP.04162018     8 \uf0b7   Respond  \u2013 Develop and implement appropriate activities to take action regarding a detected cybersecurity incident. The Respond Function supports the ability to contain the impact of a potential  cybersecurity incident. Examples of outcome Categories within this Function include:  Response Planning; Communications; Analysis; Mitigation; and Improvements. \uf0b7   Recover  \u2013 Develop and implement appropriate activities to maintain plans for resilience and to restore any capabilities or services that were impaired due to a cybersecurity  incident. The Recover Function supports timely recovery to normal operations to reduce the  impact from a cybersecurity incident. Examples of outcome Categories within this  Function include: Recovery Planning; Improvements; and Communications."
+    },
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 19,
+      "refined_text": "An organization can use the Framework as a key part of its systematic process for identifying,  assessing, and managing cybersecurity risk. The Framework is not designed to replace existing  processes; an organization can use its current process and overlay it onto the Framework to  determine gaps in its current cybersecurity risk approach and develop a roadmap to  improvement. Using the Framework as a cybersecurity risk management tool, an organization  can determine activities that are most important to critical service delivery and prioritize  expenditures to maximize the impact of the investment. The Framework is designed to complement existing business and cybersecurity operations. It can  serve as the foundation for a new cybersecurity program or a mechanism for improving an  existing program. The Framework provides a means of expressing cybersecurity requirements to  business partners and customers and can help identify gaps in an organization\u2019s cybersecurity  practices. It also provides a general set of considerations and processes for considering privacy  and civil liberties implications in the context of a cybersecurity program. The Framework can be applied throughout the life cycle phases of plan, design, build/buy,  deploy, operate, and decommission. The plan phase begins the cycle of any system and lays the  groundwork for everything that follows. Overarching cybersecurity considerations should be  declared and described as clearly as possible. The plan should recognize that those  considerations and requirements are likely to evolve during the remainder of the life cycle. The  design phase should account for cybersecurity requirements as a part of a larger multi- disciplinary systems engineering process. 10  A key milestone of the design phase is validation that  the system cybersecurity specifications match the needs and risk disposition of the organization  as captured in a Framework Profile. The desired cybersecurity outcomes prioritized in a Target  Profile should be incorporated when a) developing the system during the build phase and b)  purchasing or outsourcing the system during the buy phase. That same Target Profile serves as a  list of system cybersecurity features that should be assessed when deploying the system to verify  all features are implemented. The cybersecurity outcomes determined by using the Framework  then should serve as a basis for ongoing operation of the system. This includes occasional  reassessment, capturing results in a Current Profile, to verify that cybersecurity requirements are  still fulfilled. Typically, a complex web of dependencies (e.g., compensating and common  controls) among systems means the outcomes documented in Target Profiles of related systems  should be carefully considered as systems are decommissioned. The following sections present different ways in which organizations can use the Framework."
+    },
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 20,
+      "refined_text": "The Framework can be used to compare an organization\u2019s current cybersecurity activities with  those outlined in the Framework Core. Through the creation of a Current Profile, organizations  can examine the extent to which they are achieving the outcomes described in the Core  Categories and Subcategories, aligned with the five high-level Functions: Identify, Protect,  Detect, Respond, and Recover. An organization may find that it is already achieving the desired 10  NIST Special Publication 800-160 Volume 1,  System Security Engineering, Considerations for a  Multidisciplinary Approach in the Engineering of Trustworthy Secure Systems , Ross et al, November 2016 (updated  March 21, 2018),  https://doi.org/10.6028/NIST.SP.800-160v1 April 16, 2018   Cybersecurity Framework  Version 1.1 This publication is available free of charge from: https://doi.org/10.6028/NIST.CSWP.04162018     14 outcomes, thus managing cybersecurity commensurate with the known risk. Alternatively, an  organization may determine that it has opportunities to (or needs to) improve. The organization  can use that information to develop an action plan to strengthen existing cybersecurity practices  and reduce cybersecurity risk. An organization may also find that it is overinvesting to achieve  certain outcomes. The organization can use this information to reprioritize resources. While they do not replace a risk management process, these five high-level Functions will  provide a concise way for senior executives and others to distill the fundamental concepts of  cybersecurity risk so that they can assess how identified risks are managed, and how their  organization stacks up at a high level against existing cybersecurity standards, guidelines, and  practices. The Framework can also help an organization answer fundamental questions,  including \u201cHow are we doing?\u201d Then they can move in a more informed way to strengthen their  cybersecurity practices where and when deemed necessary."
+    },
+    {
+      "document": "cyber 4.pdf",
+      "page_number": 11,
+      "refined_text": "11 S.   AlDaajeh,   H.   Saleous,   S.   Alrabaee   et   al.   Computers   &   Security   119   (2022)   102754"
+    },
+    {
+      "document": "cyber 2.pdf",
+      "page_number": 10,
+      "refined_text": "The Framework is a risk-based approach to managing cybersecurity risk, and is composed of  three parts: the Framework Core, the Framework Implementation Tiers, and the Framework  Profiles. Each Framework component reinforces the connection between business/mission  drivers and cybersecurity activities. These components are explained below. \uf0b7   The  Framework Core  is a set of cybersecurity activities, desired outcomes, and applicable references that are common across critical infrastructure sectors. The Core  presents industry standards, guidelines, and practices in a manner that allows for  communication of cybersecurity activities and outcomes across the organization from the  executive level to the implementation/operations level. The Framework Core consists of  five concurrent and continuous Functions\u2014Identify, Protect, Detect, Respond, Recover.  When considered together, these Functions provide a high-level, strategic view of the  lifecycle of an organization\u2019s management of cybersecurity risk. The Framework Core  then identifies underlying key Categories and Subcategories \u2013 which are discrete  outcomes \u2013 for each Function, and matches them with example Informative References  such as existing standards, guidelines, and practices for each Subcategory. \uf0b7   Framework Implementation Tiers   (\u201cTiers\u201d) provide context on how an organization views cybersecurity risk and the processes in place to manage that risk. Tiers describe the  degree to which an organization\u2019s cybersecurity risk management practices exhibit the April 16, 2018   Cybersecurity Framework  Version 1.1 This publication is available free of charge from: https://doi.org/10.6028/NIST.CSWP.04162018     4 characteristics defined in the Framework (e.g., risk and threat aware, repeatable, and  adaptive). The Tiers characterize an organization\u2019s practices over a range, from Partial  (Tier 1) to Adaptive (Tier 4). These Tiers reflect a progression from informal, reactive  responses to approaches that are agile and risk-informed. During the Tier selection  process, an organization should consider its current risk management practices, threat  environment, legal and regulatory requirements, business/mission objectives, and  organizational constraints. \uf0b7   A  Framework Profile  (\u201cProfile\u201d) represents the outcomes based on business needs that an organization has selected from the Framework Categories and Subcategories. The Profile  can be characterized as the alignment of standards, guidelines, and practices to the  Framework Core in a particular implementation scenario. Profiles can be used to identify  opportunities for improving cybersecurity posture by comparing a \u201cCurrent\u201d Profile (the  \u201cas is\u201d state) with a \u201cTarget\u201d Profile (the \u201cto be\u201d state). To develop a Profile, an  organization can review all of the Categories and Subcategories and, based on  business/mission drivers and a risk assessment, determine which are most important; it  can add Categories and Subcategories as needed to address the organization\u2019s risks. The  Current Profile can then be used to support prioritization and measurement of progress  toward the Target Profile, while factoring in other business needs including cost- effectiveness and innovation. Profiles can be used to conduct self-assessments and  communicate within an organization or between organizations."
+    }
+  ]
+}

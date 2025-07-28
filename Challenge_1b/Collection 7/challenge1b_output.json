@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Special Diets Chef",
+    "job_to_be_done": "Create a balanced 3-course dinner menu for a family with nutritional requirements of 600-800 calories per adult serving focusing on seasonal ingredients.",
+    "processing_timestamp": "2025-07-28T07:16:51.305486"
+  },
+  "extracted_sections": [
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 5,
+      "section_title": "side.",
+      "importance_rank": 1
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 2,
+      "section_title": "through.",
+      "importance_rank": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "section_title": "Oatmeal  Ingredients:",
+      "importance_rank": 3
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 4,
+      "section_title": "Banchan",
+      "importance_rank": 4
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 11,
+      "section_title": "parsley, and salt.",
+      "importance_rank": 5
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "section_title": "Yogurt Parfait  Ingredients:",
+      "importance_rank": 6
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 6,
+      "section_title": "Smoothie  Ingredients:",
+      "importance_rank": 7
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 2,
+      "section_title": "Antipasto",
+      "importance_rank": 8
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 11,
+      "section_title": "Protein Smoothie  Ingredients:",
+      "importance_rank": 9
+    },
+    {
+      "document": "Dinner Ideas - Mains_2.pdf",
+      "page_number": 9,
+      "section_title": "Ingredients:",
+      "importance_rank": 10
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 5,
+      "refined_text": "o   Cut into wedges and serve."
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 2,
+      "refined_text": "o   Serve warm."
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 3,
+      "refined_text": "\u2022   1 cup rolled oats \u2022   2 cups water or milk \u2022   1/4 teaspoon salt \u2022   Toppings: fresh fruit, nuts, honey, cinnamon"
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 4,
+      "refined_text": "\uf0b7   Ingredients : o   Assorted small side dishes like pickled radish, spinach, bean sprouts, kimchi \uf0b7   Instructions : o   Prepare each side dish separately.  o   Arrange on small plates.  o   Serve as accompaniments to the main meal."
+    },
+    {
+      "document": "Dinner Ideas - Sides_4.pdf",
+      "page_number": 11,
+      "refined_text": "o   Serve chilled."
+    }
+  ]
+}

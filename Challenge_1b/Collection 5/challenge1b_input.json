@@ -1,0 +1,31 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_005",
+        "test_case_name": "cybersecurity_course_reference",
+        "description": "Compile core definitions, frameworks, educational models, and key curricular innovations from foundational cybersecurity documents."
+    },
+    "documents": [
+        {
+            "filename": "cyber 1.pdf",
+            "title": "Defining Cybersecurity"
+        },
+        {
+            "filename": "cyber 2.pdf",
+            "title": "Cybersecurity Curriculum Enhancement Strategies"
+        },
+        {
+            "filename": "cyber 3.pdf",
+            "title": "NIST Cybersecurity Framework: Functions, Categories, and Implementation Tiers"
+        },
+        {
+            "filename": "cyber 4.pdf",
+            "title": "Proposal of an Inclusive Cybersecurity Definition"
+        }
+    ],
+    "persona": {
+        "role": "Cybersecurity Curriculum Designer"
+    },
+    "job_to_be_done": {
+        "task": "Produce a structured answer containing essential definitions, main curriculum frameworks, strategies for course/module creation, and current best practices in cybersecurity education as extracted from these documents."
+    }
+}

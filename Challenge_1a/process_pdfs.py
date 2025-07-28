@@ -9,7 +9,7 @@ import joblib
 import sys
 
 # --- Load the trained model ---
-MODEL_PATH = 'D:/adobe-hackathon/Challenge_1a/heading_classifier.joblib'
+MODEL_PATH = 'heading_classifier.joblib'
 try:
     model = joblib.load(MODEL_PATH)
 except FileNotFoundError:
@@ -119,8 +119,8 @@ def process_pdfs(pdf_path):
 
 # --- Main execution block to process all PDFs in a directory ---
 if __name__ == "__main__":
-    INPUT_DIR = 'D:/adobe-hackathon/Challenge_1a/sample_dataset/pdfs'
-    OUTPUT_DIR = 'D:/adobe-hackathon/Challenge_1a/sample_dataset/outputs'
+    INPUT_DIR = 'sample_dataset/pdfs'
+    OUTPUT_DIR = 'sample_dataset/outputs'
     
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)

@@ -1,0 +1,31 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_004",
+        "test_case_name": "cybersecurity_content_extractor",
+        "description": "Extraction and organization of key cybersecurity concepts from foundational PDF documents."
+    },
+    "documents": [
+        {
+            "filename": "cyber 1.pdf",
+            "title": "Defining Cybersecurity"
+        },
+        {
+            "filename": "cyber 2.pdf",
+            "title": "Cybersecurity Curriculum Enhancement Strategies"
+        },
+        {
+            "filename": "cyber 3.pdf",
+            "title": "NIST Cybersecurity Framework: Functions, Categories, and Implementation Tiers"
+        },
+        {
+            "filename": "cyber 4.pdf",
+            "title": "Proposal of an Inclusive Cybersecurity Definition"
+        }
+    ],
+    "persona": {
+        "role": "AI Cybersecurity Scholar"
+    },
+    "job_to_be_done": {
+        "task": "Identify and organize the key concepts, frameworks, methodologies, and definitions from these documents, suitable for training a large language model."
+    }
+}

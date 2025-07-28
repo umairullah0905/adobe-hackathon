@@ -1,0 +1,27 @@
+{
+    "challenge_info": {
+        "challenge_id": "round_1b_006",
+        "test_case_name": "cancer_diagnosis_summarization",
+        "description": "Synthesize and rank the core diagnostic methods and innovations in cancer (solid tumors) from authoritative scientific documents."
+    },
+    "documents": [
+        {
+            "filename": "cancer 1.pdf",
+            "title": "Cancer Diagnostic Methods"
+        },
+        {
+            "filename": "cancer 2.pdf",
+            "title": "Biomarkers in Oncology"
+        },
+        {
+            "filename": "cancer 3.pdf",
+            "title": "Innovations in Tumor Diagnosis"
+        }
+    ],
+    "persona": {
+        "role": "Oncology Research Assistant"
+    },
+    "job_to_be_done": {
+        "task": "Extract the most relevant methods and technology trends in cancer diagnosis."
+    }
+}
